@@ -22,3 +22,6 @@ How to port QMK to Redragon:
 
 "Timeless" homerow mods:
 - https://github.com/urob/zmk-config
+
+More ideas:
+- https://www.jonashietala.se/blog/2022/09/06/the_current_t-34_keyboard_layout/
